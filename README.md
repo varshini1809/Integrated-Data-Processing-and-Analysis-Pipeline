@@ -11,6 +11,8 @@ Database Integration: Loads processed data into Microsoft SQL Server for storage
 SQL Analysis: Implements SQL queries for further data manipulation, aggregation, and generation of analytical insights.
 End-to-End Pipeline: Provides a complete workflow from initial data acquisition to final data analysis and reporting.
 
+![image](https://github.com/user-attachments/assets/fd959980-7c0d-49f1-b878-3f50e8f14500)
+
 # Technologies Used:
 Python, Pandas
 Microsoft SQL Server
